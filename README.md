@@ -6,11 +6,13 @@ Buy and hold strategy - no risk management
 
 Risk Management by Stop Loss
 
-Risk Management by Hedging
+Risk Management by hedging with futures
 
-Risk management by diversification & non-correlation
+Risk management by diversification
 
-Risk management with covered called options 
+Risk management by non-correlation
+
+Risk management with covered call options 
 
 
 
