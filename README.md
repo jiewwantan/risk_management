@@ -1,4 +1,4 @@
-## Bactesting of portfolios with different risk management strategies  
+## Backtesting of portfolios with different risk management strategies  
 
 #### This program attempts to backtest different risk management strategies with portfolios constructed with varied strategies: 
 
@@ -18,16 +18,16 @@ Risk management with covered call options
 
 #### The metric to measure the portfolios return and risk are: 
 
-i. Average Monthly Return,
+1. Average Monthly Return,
 
-ii. Percentage of Positive Months,
+2. Percentage of Positive Months,
 
-iii. Average Yearly Return,
+3. Average Yearly Return,
 
-iv. Max Monthly Drawdown,
+4. Max Monthly Drawdown,
 
-v. Max Drawdown,
+5. Max Drawdown,
 
-vi. Lake Ratio &
+6. Lake Ratio &
 
-vii. Gain to Pain Ratio
+7. Gain to Pain Ratio
