@@ -1,5 +1,8 @@
 ## Backtesting of portfolios with different risk management strategies  
 
+[image1]: https://github.com/jiewwantan/risk_management/blob/master/portfolios_returns.png "Portfolio Returns"
+![Portfolio Returns][image1]
+
 #### This program attempts to backtest different risk management strategies with portfolios constructed with varied strategies: 
 
 Buy and hold strategy - no risk management
